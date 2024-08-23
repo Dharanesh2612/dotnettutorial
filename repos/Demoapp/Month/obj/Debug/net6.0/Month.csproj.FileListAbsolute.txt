@@ -1,0 +1,14 @@
+C:\Users\dharanesh.r\source\repos\Demoapp\Month\obj\Debug\net6.0\Month.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dharanesh.r\source\repos\Demoapp\Month\obj\Debug\net6.0\Month.AssemblyInfoInputs.cache
+C:\Users\dharanesh.r\source\repos\Demoapp\Month\obj\Debug\net6.0\Month.AssemblyInfo.cs
+C:\Users\dharanesh.r\source\repos\Demoapp\Month\obj\Debug\net6.0\Month.csproj.CoreCompileInputs.cache
+C:\Users\dharanesh.r\source\repos\Demoapp\Month\bin\Debug\net6.0\Month.exe
+C:\Users\dharanesh.r\source\repos\Demoapp\Month\bin\Debug\net6.0\Month.deps.json
+C:\Users\dharanesh.r\source\repos\Demoapp\Month\bin\Debug\net6.0\Month.runtimeconfig.json
+C:\Users\dharanesh.r\source\repos\Demoapp\Month\bin\Debug\net6.0\Month.dll
+C:\Users\dharanesh.r\source\repos\Demoapp\Month\bin\Debug\net6.0\Month.pdb
+C:\Users\dharanesh.r\source\repos\Demoapp\Month\obj\Debug\net6.0\Month.dll
+C:\Users\dharanesh.r\source\repos\Demoapp\Month\obj\Debug\net6.0\refint\Month.dll
+C:\Users\dharanesh.r\source\repos\Demoapp\Month\obj\Debug\net6.0\Month.pdb
+C:\Users\dharanesh.r\source\repos\Demoapp\Month\obj\Debug\net6.0\Month.genruntimeconfig.cache
+C:\Users\dharanesh.r\source\repos\Demoapp\Month\obj\Debug\net6.0\ref\Month.dll

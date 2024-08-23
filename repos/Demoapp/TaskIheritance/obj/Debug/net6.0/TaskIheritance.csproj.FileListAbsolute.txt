@@ -1,0 +1,14 @@
+C:\Users\dharanesh.r\source\repos\Demoapp\TaskIheritance\bin\Debug\net6.0\TaskIheritance.exe
+C:\Users\dharanesh.r\source\repos\Demoapp\TaskIheritance\bin\Debug\net6.0\TaskIheritance.deps.json
+C:\Users\dharanesh.r\source\repos\Demoapp\TaskIheritance\bin\Debug\net6.0\TaskIheritance.runtimeconfig.json
+C:\Users\dharanesh.r\source\repos\Demoapp\TaskIheritance\bin\Debug\net6.0\TaskIheritance.dll
+C:\Users\dharanesh.r\source\repos\Demoapp\TaskIheritance\bin\Debug\net6.0\TaskIheritance.pdb
+C:\Users\dharanesh.r\source\repos\Demoapp\TaskIheritance\obj\Debug\net6.0\TaskIheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dharanesh.r\source\repos\Demoapp\TaskIheritance\obj\Debug\net6.0\TaskIheritance.AssemblyInfoInputs.cache
+C:\Users\dharanesh.r\source\repos\Demoapp\TaskIheritance\obj\Debug\net6.0\TaskIheritance.AssemblyInfo.cs
+C:\Users\dharanesh.r\source\repos\Demoapp\TaskIheritance\obj\Debug\net6.0\TaskIheritance.csproj.CoreCompileInputs.cache
+C:\Users\dharanesh.r\source\repos\Demoapp\TaskIheritance\obj\Debug\net6.0\TaskIheritance.dll
+C:\Users\dharanesh.r\source\repos\Demoapp\TaskIheritance\obj\Debug\net6.0\refint\TaskIheritance.dll
+C:\Users\dharanesh.r\source\repos\Demoapp\TaskIheritance\obj\Debug\net6.0\TaskIheritance.pdb
+C:\Users\dharanesh.r\source\repos\Demoapp\TaskIheritance\obj\Debug\net6.0\TaskIheritance.genruntimeconfig.cache
+C:\Users\dharanesh.r\source\repos\Demoapp\TaskIheritance\obj\Debug\net6.0\ref\TaskIheritance.dll

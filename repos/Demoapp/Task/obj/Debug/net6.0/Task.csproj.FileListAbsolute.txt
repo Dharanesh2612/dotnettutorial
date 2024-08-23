@@ -1,0 +1,14 @@
+C:\Users\dharanesh.r\source\repos\Demoapp\Task\bin\Debug\net6.0\Task.exe
+C:\Users\dharanesh.r\source\repos\Demoapp\Task\bin\Debug\net6.0\Task.deps.json
+C:\Users\dharanesh.r\source\repos\Demoapp\Task\bin\Debug\net6.0\Task.runtimeconfig.json
+C:\Users\dharanesh.r\source\repos\Demoapp\Task\bin\Debug\net6.0\Task.dll
+C:\Users\dharanesh.r\source\repos\Demoapp\Task\bin\Debug\net6.0\Task.pdb
+C:\Users\dharanesh.r\source\repos\Demoapp\Task\obj\Debug\net6.0\Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dharanesh.r\source\repos\Demoapp\Task\obj\Debug\net6.0\Task.AssemblyInfoInputs.cache
+C:\Users\dharanesh.r\source\repos\Demoapp\Task\obj\Debug\net6.0\Task.AssemblyInfo.cs
+C:\Users\dharanesh.r\source\repos\Demoapp\Task\obj\Debug\net6.0\Task.csproj.CoreCompileInputs.cache
+C:\Users\dharanesh.r\source\repos\Demoapp\Task\obj\Debug\net6.0\Task.dll
+C:\Users\dharanesh.r\source\repos\Demoapp\Task\obj\Debug\net6.0\refint\Task.dll
+C:\Users\dharanesh.r\source\repos\Demoapp\Task\obj\Debug\net6.0\Task.pdb
+C:\Users\dharanesh.r\source\repos\Demoapp\Task\obj\Debug\net6.0\Task.genruntimeconfig.cache
+C:\Users\dharanesh.r\source\repos\Demoapp\Task\obj\Debug\net6.0\ref\Task.dll

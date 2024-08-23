@@ -1,0 +1,14 @@
+C:\Users\dharanesh.r\source\repos\Demoapp\ONLINECLSS\bin\Debug\net6.0\ONLINECLSS.exe
+C:\Users\dharanesh.r\source\repos\Demoapp\ONLINECLSS\bin\Debug\net6.0\ONLINECLSS.deps.json
+C:\Users\dharanesh.r\source\repos\Demoapp\ONLINECLSS\bin\Debug\net6.0\ONLINECLSS.runtimeconfig.json
+C:\Users\dharanesh.r\source\repos\Demoapp\ONLINECLSS\bin\Debug\net6.0\ONLINECLSS.dll
+C:\Users\dharanesh.r\source\repos\Demoapp\ONLINECLSS\bin\Debug\net6.0\ONLINECLSS.pdb
+C:\Users\dharanesh.r\source\repos\Demoapp\ONLINECLSS\obj\Debug\net6.0\ONLINECLSS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dharanesh.r\source\repos\Demoapp\ONLINECLSS\obj\Debug\net6.0\ONLINECLSS.AssemblyInfoInputs.cache
+C:\Users\dharanesh.r\source\repos\Demoapp\ONLINECLSS\obj\Debug\net6.0\ONLINECLSS.AssemblyInfo.cs
+C:\Users\dharanesh.r\source\repos\Demoapp\ONLINECLSS\obj\Debug\net6.0\ONLINECLSS.csproj.CoreCompileInputs.cache
+C:\Users\dharanesh.r\source\repos\Demoapp\ONLINECLSS\obj\Debug\net6.0\ONLINECLSS.dll
+C:\Users\dharanesh.r\source\repos\Demoapp\ONLINECLSS\obj\Debug\net6.0\refint\ONLINECLSS.dll
+C:\Users\dharanesh.r\source\repos\Demoapp\ONLINECLSS\obj\Debug\net6.0\ONLINECLSS.pdb
+C:\Users\dharanesh.r\source\repos\Demoapp\ONLINECLSS\obj\Debug\net6.0\ONLINECLSS.genruntimeconfig.cache
+C:\Users\dharanesh.r\source\repos\Demoapp\ONLINECLSS\obj\Debug\net6.0\ref\ONLINECLSS.dll

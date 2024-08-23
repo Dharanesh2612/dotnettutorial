@@ -1,0 +1,14 @@
+C:\Users\dharanesh.r\source\repos\Demoapp\oopsdemo1\bin\Debug\net6.0\oopsdemo1.exe
+C:\Users\dharanesh.r\source\repos\Demoapp\oopsdemo1\bin\Debug\net6.0\oopsdemo1.deps.json
+C:\Users\dharanesh.r\source\repos\Demoapp\oopsdemo1\bin\Debug\net6.0\oopsdemo1.runtimeconfig.json
+C:\Users\dharanesh.r\source\repos\Demoapp\oopsdemo1\bin\Debug\net6.0\oopsdemo1.dll
+C:\Users\dharanesh.r\source\repos\Demoapp\oopsdemo1\bin\Debug\net6.0\oopsdemo1.pdb
+C:\Users\dharanesh.r\source\repos\Demoapp\oopsdemo1\obj\Debug\net6.0\oopsdemo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dharanesh.r\source\repos\Demoapp\oopsdemo1\obj\Debug\net6.0\oopsdemo1.AssemblyInfoInputs.cache
+C:\Users\dharanesh.r\source\repos\Demoapp\oopsdemo1\obj\Debug\net6.0\oopsdemo1.AssemblyInfo.cs
+C:\Users\dharanesh.r\source\repos\Demoapp\oopsdemo1\obj\Debug\net6.0\oopsdemo1.csproj.CoreCompileInputs.cache
+C:\Users\dharanesh.r\source\repos\Demoapp\oopsdemo1\obj\Debug\net6.0\oopsdemo1.dll
+C:\Users\dharanesh.r\source\repos\Demoapp\oopsdemo1\obj\Debug\net6.0\refint\oopsdemo1.dll
+C:\Users\dharanesh.r\source\repos\Demoapp\oopsdemo1\obj\Debug\net6.0\oopsdemo1.pdb
+C:\Users\dharanesh.r\source\repos\Demoapp\oopsdemo1\obj\Debug\net6.0\oopsdemo1.genruntimeconfig.cache
+C:\Users\dharanesh.r\source\repos\Demoapp\oopsdemo1\obj\Debug\net6.0\ref\oopsdemo1.dll

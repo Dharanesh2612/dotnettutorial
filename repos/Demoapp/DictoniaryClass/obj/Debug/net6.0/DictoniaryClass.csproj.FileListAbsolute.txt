@@ -1,0 +1,14 @@
+C:\Users\dharanesh.r\source\repos\Demoapp\DictoniaryClass\bin\Debug\net6.0\DictoniaryClass.exe
+C:\Users\dharanesh.r\source\repos\Demoapp\DictoniaryClass\bin\Debug\net6.0\DictoniaryClass.deps.json
+C:\Users\dharanesh.r\source\repos\Demoapp\DictoniaryClass\bin\Debug\net6.0\DictoniaryClass.runtimeconfig.json
+C:\Users\dharanesh.r\source\repos\Demoapp\DictoniaryClass\bin\Debug\net6.0\DictoniaryClass.dll
+C:\Users\dharanesh.r\source\repos\Demoapp\DictoniaryClass\bin\Debug\net6.0\DictoniaryClass.pdb
+C:\Users\dharanesh.r\source\repos\Demoapp\DictoniaryClass\obj\Debug\net6.0\DictoniaryClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dharanesh.r\source\repos\Demoapp\DictoniaryClass\obj\Debug\net6.0\DictoniaryClass.AssemblyInfoInputs.cache
+C:\Users\dharanesh.r\source\repos\Demoapp\DictoniaryClass\obj\Debug\net6.0\DictoniaryClass.AssemblyInfo.cs
+C:\Users\dharanesh.r\source\repos\Demoapp\DictoniaryClass\obj\Debug\net6.0\DictoniaryClass.csproj.CoreCompileInputs.cache
+C:\Users\dharanesh.r\source\repos\Demoapp\DictoniaryClass\obj\Debug\net6.0\DictoniaryClass.dll
+C:\Users\dharanesh.r\source\repos\Demoapp\DictoniaryClass\obj\Debug\net6.0\refint\DictoniaryClass.dll
+C:\Users\dharanesh.r\source\repos\Demoapp\DictoniaryClass\obj\Debug\net6.0\DictoniaryClass.pdb
+C:\Users\dharanesh.r\source\repos\Demoapp\DictoniaryClass\obj\Debug\net6.0\DictoniaryClass.genruntimeconfig.cache
+C:\Users\dharanesh.r\source\repos\Demoapp\DictoniaryClass\obj\Debug\net6.0\ref\DictoniaryClass.dll

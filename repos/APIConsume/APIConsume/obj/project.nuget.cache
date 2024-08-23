@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "smukaO/VU4Y=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dharanesh.r\\source\\repos\\APIConsume\\APIConsume\\APIConsume.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dharanesh.r\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

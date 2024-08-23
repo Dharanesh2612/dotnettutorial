@@ -1,0 +1,14 @@
+C:\Users\dharanesh.r\source\repos\Demoapp\newdemo\bin\Debug\net6.0\newdemo.exe
+C:\Users\dharanesh.r\source\repos\Demoapp\newdemo\bin\Debug\net6.0\newdemo.deps.json
+C:\Users\dharanesh.r\source\repos\Demoapp\newdemo\bin\Debug\net6.0\newdemo.runtimeconfig.json
+C:\Users\dharanesh.r\source\repos\Demoapp\newdemo\bin\Debug\net6.0\newdemo.dll
+C:\Users\dharanesh.r\source\repos\Demoapp\newdemo\bin\Debug\net6.0\newdemo.pdb
+C:\Users\dharanesh.r\source\repos\Demoapp\newdemo\obj\Debug\net6.0\newdemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dharanesh.r\source\repos\Demoapp\newdemo\obj\Debug\net6.0\newdemo.AssemblyInfoInputs.cache
+C:\Users\dharanesh.r\source\repos\Demoapp\newdemo\obj\Debug\net6.0\newdemo.AssemblyInfo.cs
+C:\Users\dharanesh.r\source\repos\Demoapp\newdemo\obj\Debug\net6.0\newdemo.csproj.CoreCompileInputs.cache
+C:\Users\dharanesh.r\source\repos\Demoapp\newdemo\obj\Debug\net6.0\newdemo.dll
+C:\Users\dharanesh.r\source\repos\Demoapp\newdemo\obj\Debug\net6.0\refint\newdemo.dll
+C:\Users\dharanesh.r\source\repos\Demoapp\newdemo\obj\Debug\net6.0\newdemo.pdb
+C:\Users\dharanesh.r\source\repos\Demoapp\newdemo\obj\Debug\net6.0\newdemo.genruntimeconfig.cache
+C:\Users\dharanesh.r\source\repos\Demoapp\newdemo\obj\Debug\net6.0\ref\newdemo.dll
