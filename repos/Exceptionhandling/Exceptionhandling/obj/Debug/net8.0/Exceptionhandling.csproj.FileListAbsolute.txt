@@ -1,0 +1,15 @@
+C:\Users\dharanesh.r\source\repos\Exceptionhandling\Exceptionhandling\bin\Debug\net8.0\Exceptionhandling.exe
+C:\Users\dharanesh.r\source\repos\Exceptionhandling\Exceptionhandling\bin\Debug\net8.0\Exceptionhandling.deps.json
+C:\Users\dharanesh.r\source\repos\Exceptionhandling\Exceptionhandling\bin\Debug\net8.0\Exceptionhandling.runtimeconfig.json
+C:\Users\dharanesh.r\source\repos\Exceptionhandling\Exceptionhandling\bin\Debug\net8.0\Exceptionhandling.dll
+C:\Users\dharanesh.r\source\repos\Exceptionhandling\Exceptionhandling\bin\Debug\net8.0\Exceptionhandling.pdb
+C:\Users\dharanesh.r\source\repos\Exceptionhandling\Exceptionhandling\obj\Debug\net8.0\Exceptionhandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dharanesh.r\source\repos\Exceptionhandling\Exceptionhandling\obj\Debug\net8.0\Exceptionhandling.AssemblyInfoInputs.cache
+C:\Users\dharanesh.r\source\repos\Exceptionhandling\Exceptionhandling\obj\Debug\net8.0\Exceptionhandling.AssemblyInfo.cs
+C:\Users\dharanesh.r\source\repos\Exceptionhandling\Exceptionhandling\obj\Debug\net8.0\Exceptionhandling.csproj.CoreCompileInputs.cache
+C:\Users\dharanesh.r\source\repos\Exceptionhandling\Exceptionhandling\obj\Debug\net8.0\Exceptionhandling.sourcelink.json
+C:\Users\dharanesh.r\source\repos\Exceptionhandling\Exceptionhandling\obj\Debug\net8.0\Exceptionhandling.dll
+C:\Users\dharanesh.r\source\repos\Exceptionhandling\Exceptionhandling\obj\Debug\net8.0\refint\Exceptionhandling.dll
+C:\Users\dharanesh.r\source\repos\Exceptionhandling\Exceptionhandling\obj\Debug\net8.0\Exceptionhandling.pdb
+C:\Users\dharanesh.r\source\repos\Exceptionhandling\Exceptionhandling\obj\Debug\net8.0\Exceptionhandling.genruntimeconfig.cache
+C:\Users\dharanesh.r\source\repos\Exceptionhandling\Exceptionhandling\obj\Debug\net8.0\ref\Exceptionhandling.dll
