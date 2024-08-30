@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\dharanesh.r\\source\\repos\\ReservationApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{91CD83E3-8684-4E1E-A2AB-6773A8E90B53}|ReservationApi\\ReservationApi.csproj|c:\\users\\dharanesh.r\\source\\repos\\reservationapi\\reservationapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91CD83E3-8684-4E1E-A2AB-6773A8E90B53}|ReservationApi\\ReservationApi.csproj|solutionrelative:reservationapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{91CD83E3-8684-4E1E-A2AB-6773A8E90B53}|ReservationApi\\ReservationApi.csproj|c:\\users\\dharanesh.r\\source\\repos\\reservationapi\\reservationapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91CD83E3-8684-4E1E-A2AB-6773A8E90B53}|ReservationApi\\ReservationApi.csproj|solutionrelative:reservationapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{91CD83E3-8684-4E1E-A2AB-6773A8E90B53}|ReservationApi\\ReservationApi.csproj|c:\\users\\dharanesh.r\\source\\repos\\reservationapi\\reservationapi\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{91CD83E3-8684-4E1E-A2AB-6773A8E90B53}|ReservationApi\\ReservationApi.csproj|solutionrelative:reservationapi\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91CD83E3-8684-4E1E-A2AB-6773A8E90B53}|ReservationApi\\ReservationApi.csproj|c:\\users\\dharanesh.r\\source\\repos\\reservationapi\\reservationapi\\controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91CD83E3-8684-4E1E-A2AB-6773A8E90B53}|ReservationApi\\ReservationApi.csproj|solutionrelative:reservationapi\\controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91CD83E3-8684-4E1E-A2AB-6773A8E90B53}|ReservationApi\\ReservationApi.csproj|c:\\users\\dharanesh.r\\source\\repos\\reservationapi\\reservationapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91CD83E3-8684-4E1E-A2AB-6773A8E90B53}|ReservationApi\\ReservationApi.csproj|solutionrelative:reservationapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{91CD83E3-8684-4E1E-A2AB-6773A8E90B53}|ReservationApi\\ReservationApi.csproj|c:\\users\\dharanesh.r\\source\\repos\\reservationapi\\reservationapi\\models\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,18 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{91CD83E3-8684-4E1E-A2AB-6773A8E90B53}|ReservationApi\\ReservationApi.csproj|c:\\users\\dharanesh.r\\source\\repos\\reservationapi\\reservationapi\\models\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{91CD83E3-8684-4E1E-A2AB-6773A8E90B53}|ReservationApi\\ReservationApi.csproj|solutionrelative:reservationapi\\models\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{91CD83E3-8684-4E1E-A2AB-6773A8E90B53}|ReservationApi\\ReservationApi.csproj|c:\\users\\dharanesh.r\\source\\repos\\reservationapi\\reservationapi\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91CD83E3-8684-4E1E-A2AB-6773A8E90B53}|ReservationApi\\ReservationApi.csproj|solutionrelative:reservationapi\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{91CD83E3-8684-4E1E-A2AB-6773A8E90B53}|ReservationApi\\ReservationApi.csproj|c:\\users\\dharanesh.r\\source\\repos\\reservationapi\\reservationapi\\controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91CD83E3-8684-4E1E-A2AB-6773A8E90B53}|ReservationApi\\ReservationApi.csproj|solutionrelative:reservationapi\\controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{91CD83E3-8684-4E1E-A2AB-6773A8E90B53}|ReservationApi\\ReservationApi.csproj|c:\\users\\dharanesh.r\\source\\repos\\reservationapi\\reservationapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91CD83E3-8684-4E1E-A2AB-6773A8E90B53}|ReservationApi\\ReservationApi.csproj|solutionrelative:reservationapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,31 +34,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\dharanesh.r\\source\\repos\\ReservationApi\\ReservationApi\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "ReservationApi\\Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\dharanesh.r\\source\\repos\\ReservationApi\\ReservationApi\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "ReservationApi\\Models\\ErrorViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T12:12:22.255Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\dharanesh.r\\source\\repos\\ReservationApi\\ReservationApi\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "ReservationApi\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\dharanesh.r\\source\\repos\\ReservationApi\\ReservationApi\\Controllers\\HomeController.cs",
               "RelativeToolTip": "ReservationApi\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T12:12:18.129Z"
+              "WhenOpened": "2024-08-23T12:12:18.129Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -72,50 +57,53 @@
               "RelativeDocumentMoniker": "ReservationApi\\Models\\Reservation.cs",
               "ToolTip": "C:\\Users\\dharanesh.r\\source\\repos\\ReservationApi\\ReservationApi\\Models\\Reservation.cs",
               "RelativeToolTip": "ReservationApi\\Models\\Reservation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T12:09:22.664Z"
+              "WhenOpened": "2024-08-23T12:09:22.664Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "ReservationController.cs",
               "DocumentMoniker": "C:\\Users\\dharanesh.r\\source\\repos\\ReservationApi\\ReservationApi\\Controllers\\ReservationController.cs",
               "RelativeDocumentMoniker": "ReservationApi\\Controllers\\ReservationController.cs",
               "ToolTip": "C:\\Users\\dharanesh.r\\source\\repos\\ReservationApi\\ReservationApi\\Controllers\\ReservationController.cs",
               "RelativeToolTip": "ReservationApi\\Controllers\\ReservationController.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAwwCIAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T06:41:30.408Z"
+              "WhenOpened": "2024-08-22T06:41:30.408Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\dharanesh.r\\source\\repos\\ReservationApi\\ReservationApi\\Program.cs",
               "RelativeDocumentMoniker": "ReservationApi\\Program.cs",
               "ToolTip": "C:\\Users\\dharanesh.r\\source\\repos\\ReservationApi\\ReservationApi\\Program.cs",
               "RelativeToolTip": "ReservationApi\\Program.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAAAB8AAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABMAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-22T06:35:22.807Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Repository.cs",
               "DocumentMoniker": "C:\\Users\\dharanesh.r\\source\\repos\\ReservationApi\\ReservationApi\\Models\\Repository.cs",
               "RelativeDocumentMoniker": "ReservationApi\\Models\\Repository.cs",
               "ToolTip": "C:\\Users\\dharanesh.r\\source\\repos\\ReservationApi\\ReservationApi\\Models\\Repository.cs",
               "RelativeToolTip": "ReservationApi\\Models\\Repository.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAIwAYAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T06:14:14.19Z"
+              "WhenOpened": "2024-08-22T06:14:14.19Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Users\\dharanesh.r\\source\\repos\\ReservationApi\\ReservationApi\\Models\\IRepository.cs",
               "RelativeDocumentMoniker": "ReservationApi\\Models\\IRepository.cs",
@@ -123,7 +111,8 @@
               "RelativeToolTip": "ReservationApi\\Models\\IRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T06:09:42.607Z"
+              "WhenOpened": "2024-08-22T06:09:42.607Z",
+              "EditorCaption": ""
             }
           ]
         }
